@@ -1,5 +1,5 @@
 # Projeto Assistencia Tecnica
-## Agora Refeito Com o Framework Laravel
+# Agora Refeito Com o Framework Laravel
  Projeto de uma assitencia tecnica com uma pagina simples, um formulario para registro e tabela de administraçao<br>
  foi aplicado CRUD com Laravel e uma pequena parte de responsividade!
 
