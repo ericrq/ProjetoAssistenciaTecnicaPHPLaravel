@@ -17,10 +17,6 @@ class ProductController extends Controller
 
     public function TabelaAdm()
     {
-        /* $clients = Client::all();
-        $products = Product::all();
-        return view('TabelaAdm', ['clients' => $clients, 'products' => $products]);*/
-
         $clients = DB::table('clients')
                     ->join('products', 'clients.product_id', '=', 'products.id')
                     ->select('clients.*', 'products.type')

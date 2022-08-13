@@ -114,9 +114,7 @@
             <textarea class="textos" name="defect" id="defeito" cols="30" rows="10"
                 placeholder="Descreva o Defeito Do Equipamento" required></textarea><br>
 
-
-
-            <label class="textos" for="defeito">Tipo Do Produto</label>
+            <label class="textos" for="idTypeProduct">Tipo Do Produto</label>
             <select class="textos" required name="idTypeProduct">
                 <option value>Selecione um Tipo</option>
 

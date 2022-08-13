@@ -26,13 +26,12 @@
     <main>
         @yield('content')
     </main>
+    <!-- ad -->
+    <footer>
+        <a target="_black" href="https://github.com/ericrq" class="textos">Desenvolvido Por Éric <i
+                class="fa fa-github"></i></a>
+    </footer>
+
+    <!-- link js slider by w3school -->
+    <script src="/js/SliderShow.js"></script>
 </body>
-
-<!-- ad -->
-<footer>
-    <a target="_black" href="https://github.com/ericrq" class="textos">Desenvolvido Por Éric <i
-            class="fa fa-github"></i></a>
-</footer>
-
-<!-- link js slider by w3school -->
-<script src="/js/SliderShow.js"></script>
