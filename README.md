@@ -5,9 +5,9 @@
 # Interface Principal
  Alguns Banners, Cards, e o Formulario Para Registro!
 
-<img src="ProjetoAssistenciaTecnicaLaravelPHP/public/img/prints/pagina-principal.png" alt="pagina principal">
+<img src="public/img/prints/pagina-principal.png" alt="pagina principal">
 
 # Pagina Administrativa  
  Tabela com opçoes Crud, Com Registros do Formulario!
 
-<img src="ProjetoAssistenciaTecnicaLaravelPHP/public/img/prints/adm-crud.png" alt="tabela crud">
+<img src="public/img/prints/adm-crud.png" alt="tabela crud">
